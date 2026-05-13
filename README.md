@@ -1,4 +1,5 @@
 📂 Estrutura de Arquivos
+
 main.py: Código principal da API FastAPI.
 
 worker.py: Lógica do consumidor de tarefas em segundo plano.
