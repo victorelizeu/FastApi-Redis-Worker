@@ -10,4 +10,3 @@ docker-compose.yml: Definição e orquestração dos serviços.
 requirements.txt: Dependências do projeto (FastAPI, Redis, Uvicorn).
 
 Desenvolvido por: João Victor Elizeu Silva (Jogador No1) Estudante de Engenharia de Software na Univassouras.
-"""
